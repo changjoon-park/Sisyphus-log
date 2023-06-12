@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Sisyphus",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Digital Forensic Investigator",
-    bio: '"I know what you Googled for last night"',
+    role: "The Absurd Man",
+    bio: '"One must imagine Sisyphus happy"',
     email: "sisyphus9402@gmail.com",
     linkedin: "ChangjoonPark",
     github: "changjoon-park",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Sisyphus Blog",
-    description: "Welcome to Sisyphus-log",
+    description: "Welcome to sisyphus-log",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
